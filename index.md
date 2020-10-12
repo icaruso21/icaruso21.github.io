@@ -26,7 +26,7 @@
 
 ---
 [Ring of Fire: Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)
-A parallelized genetic program for evolving rules that describe a cellular automaton based wildfire simulation. Both the genetic program and the wildfire simulator were written in Clojure by [@Oliver-BE](https://github.com/Oliver-BE), [@MGlusker](https://github.com/MGlusker), and myself.
+A parallelized genetic program for evolving rules that describe a cellular automaton based wildfire simulation. Both the genetic program and the wildfire simulator were written in **Clojure** by [@Oliver-BE](https://github.com/Oliver-BE), [@MGlusker](https://github.com/MGlusker), and myself.
 
 ---
 [Modeling Metabolic Responses to Climate Change](https://github.com/trenchproject/Climate-Change-Metabolism)
