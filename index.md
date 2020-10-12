@@ -20,10 +20,6 @@ A parallelized genetic program for evolving rules that describe a cellular autom
 <img src="images/climate-metabolism.png?raw=true"/>
 
 ---
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 ### Assorted Projects 
 
@@ -40,11 +36,3 @@ This project leveraged Vagrant's support for the VirtualBox hypervisor to automa
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-
-
-
-
-
----
-
