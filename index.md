@@ -23,6 +23,7 @@
 <img src="images/insect-phenology-heatmap.png?raw=true"/>
 
 <img src="images/ring-of-fire.png?raw=true" width="20%" align="right"/>
+
 ---
 [Ring of Fire: Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)
 A parallelized genetic program for evolving rules that describe a cellular automaton based wildfire simulation. Both the genetic program and the wildfire simulator were written in Clojure by [@Oliver-BE](https://github.com/Oliver-BE), [@MGlusker](https://github.com/MGlusker), and myself.
