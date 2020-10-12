@@ -23,8 +23,8 @@
 <img src="images/insect-phenology-heatmap.png?raw=true"/>
 
 ---
-[Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)
-<img src="images/ring-of-fire.png?raw=true"/>
+[Ring of Fire: Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)
+<img src="images/ring-of-fire.png?raw=true" width="50%"/>
 
 ---
 [Modeling Metabolic Responses to Climate Change](https://github.com/trenchproject/Climate-Change-Metabolism)
