@@ -4,8 +4,8 @@
 
 ### Assorted Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)
+<img src="images/afghangirl_lowres.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
