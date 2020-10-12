@@ -31,7 +31,7 @@ Written in Java by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this p
 
 ---
 [Youtube Watch Later](https://github.com/icaruso21/Youtube-Watch-Later)
-This project leveraged Vagrant's support for the VirtualBox hypervisor to automate the deployment of two intercommunicating EC2 instances hosting webservers and updating/querying a MySQL database using a REST API as part of a project for a Cloud Computing Architecture course. 
+This project leveraged Vagrant's support for the VirtualBox hypervisor to automate the deployment of two intercommunicating EC2 instances hosting webservers and updating/querying a MySQL database via REST APIs as part of a project for a Cloud Computing Architecture course. 
 
 ---
 [Project 3 Title](http://example.com/)
