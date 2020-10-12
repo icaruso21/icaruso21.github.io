@@ -30,8 +30,8 @@ Written in Java by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this p
 <img src="images/intellage-sample-new.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Youtube Watch Later](https://github.com/icaruso21/Youtube-Watch-Later)
+This project leveraged Vagrant's support for the VirtualBox hypervisor to automate the deployment of two intercommunicating EC2 instances hosting webservers and a MySQL database as part of a project in a Cloud Computing Architecture. 
 
 ---
 [Project 3 Title](http://example.com/)
