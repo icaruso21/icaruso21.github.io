@@ -5,7 +5,7 @@
 ### Assorted Projects 
 
 [Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)
-<img src="images/afghangirl_lowres.jpg?raw=true"/>
+<img src="images/intellage-sample.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
