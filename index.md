@@ -2,22 +2,6 @@
 
 ---
 
-### Assorted Projects 
-
-[Intellage: An Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)
-Written in Java by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this program recreates an input photo from a user-specified collection of jpg images. The following examples each utilized a collection of 26,000 stock images:
-<img src="images/intellage-sample-new.png?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ### Data Science & Ecology
 
 [Predicting and Modeling Insect Phenology](https://github.com/icaruso21/Insect-Phenology-Forecaster)
@@ -38,6 +22,24 @@ A parallelized genetic program for evolving rules that describe a cellular autom
 - [Project 5 Title](http://example.com/)
 
 ---
+
+### Assorted Projects 
+
+[Intellage: An Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)
+Written in Java by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this program recreates an input photo from a user-specified collection of jpg images. The following examples each utilized a collection of 26,000 stock images:
+<img src="images/intellage-sample-new.png?raw=true"/>
+
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+
 
 
 
