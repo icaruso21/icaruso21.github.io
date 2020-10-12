@@ -19,9 +19,9 @@
 
 ### Data Science & Ecology
 
-- [Evolving a Wildfire Simulator](http://example.com/)
 - [Predicting and Modeling Insect Phenology](https://github.com/icaruso21/Insect-Phenology-Forecaster)
 <img src="images/insect-phenology-heatmap.png?raw=true"/>
+- [Evolving a Wildfire Simulator](http://example.com/)
 - [Modeling Metabolic Responses to Climate Change](https://github.com/trenchproject/Climate-Change-Metabolism)
 <img src="images/climate-metabolism.png?raw=true"/>
 - [Project 4 Title](http://example.com/)
