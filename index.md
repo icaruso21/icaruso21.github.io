@@ -26,7 +26,7 @@ A parallelized genetic program for evolving rules that describe a cellular autom
 ### Assorted Projects 
 
 [Intellage: An Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)
-Written in Java by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this program recreates an input photo from a user-specified collection of jpg images. The following examples each utilized a collection of 26,000 stock images:
+Written in Java by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this program aims to recreate an input photo from a user-specified collection of jpg images. The following examples each utilized a collection of 26,000 stock images:
 <img src="images/intellage-sample-new.png?raw=true"/>
 
 ---
