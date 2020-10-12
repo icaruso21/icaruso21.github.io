@@ -24,7 +24,7 @@
 
 ---
 [Ring of Fire: Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)
-<img src="images/ring-of-fire.png?raw=true" width="20%"/>
+<img src="images/ring-of-fire.png?raw=true", width="20%", align="right"/>
 
 ---
 [Modeling Metabolic Responses to Climate Change](https://github.com/trenchproject/Climate-Change-Metabolism)
