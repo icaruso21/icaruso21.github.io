@@ -12,17 +12,17 @@ Created as part of [The Trench Project](https://www.trenchproject.com/) at Unive
 <img src="images/ring-of-fire.png?raw=true" width="20%" align="right"/>
 
 ---
-[Ring of Fire: Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)
+**[Ring of Fire: Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)**
 A **parallelized genetic program** for evolving rules that describe a cellular automaton based wildfire simulation. Both the genetic program and the wildfire simulator were written in **Clojure** by [@Oliver-BE](https://github.com/Oliver-BE), [@MGlusker](https://github.com/MGlusker), and myself.
 
 ---
-[Modeling Metabolic Responses to Climate Change](https://github.com/trenchproject/Climate-Change-Metabolism)
+**[Modeling Metabolic Responses to Climate Change](https://github.com/trenchproject/Climate-Change-Metabolism)**
 This interactive R-Shiny webpage was created to visualize how ectotherm metabolism has/will change in response to climate change across climate zones. Relying on a significant amount of historical weather data covering a wide range of latitudes, this educational visualization methodologically addresses both climate change since 1960 and the resulting metabolic impact on exposed and thermoconforming extotherms. This project was created as part of [The Trench Project](https://www.trenchproject.com/).   
 
 <img src="images/climate-metabolism.png?raw=true"/>
 
 ---
-[Visualizing the ecological impacts of marine heatwaves](https://github.com/HuckleyLab/phyto-mhw)
+**[Visualizing the ecological impacts of marine heatwaves](https://github.com/HuckleyLab/phyto-mhw)**
 This interactive **React** dashboard was created as part of a larger effort by [@acannistra](https://github.com/acannistra) with the [Buckley Lab](http://faculty.washington.edu/lbuckley/) at UW to assess the impact of marine heatwaves on phytoplankton.   
 
 <img src="images/phyto-mhw.png?raw=true"/>
@@ -31,12 +31,12 @@ This interactive **React** dashboard was created as part of a larger effort by [
 
 ### Assorted Projects 
 
-[Intellage: An Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)
+**[Intellage: An Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)**
 Written in **Java** by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this program aims to recreate an input photo from a user-specified collection of jpg images. The following examples each utilized a collection of 26,000 stock images:
 <img src="images/intellage-sample-new.png?raw=true"/>
 
 ---
-[Youtube Watch Later](https://github.com/icaruso21/Youtube-Watch-Later)
+**[Youtube Watch Later](https://github.com/icaruso21/Youtube-Watch-Later)**
 This project leveraged Vagrant's support for the **VirtualBox** hypervisor to automate the deployment of two intercommunicating **EC2** instances hosting webservers and updating/querying a **MySQL** database via **REST APIs** as part of a project for a Cloud Computing Architecture course with [@jhk199](https://github.com/jhk199) and [@Reid-Smith11](https://github.com/Reid-Smith11). 
 
 ---
