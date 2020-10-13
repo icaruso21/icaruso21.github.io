@@ -5,7 +5,7 @@
 ### Data Science & Ecology
 
 [Predicting and Modeling Insect Phenology](https://github.com/icaruso21/Insect-Phenology-Forecaster)
-Created as part of [The Trench Project](https://www.trenchproject.com/) at University of Washington, this interactive R-Shiny based insect phenology forecaster provides a detailed picture of the current developmental status of various insect species across the US and also attempts to predict development using daily weather data. This educational visualization provides educators with tools to clearly and concisely teach critical ecological principles to aspiring functional ecologists. This project is currently hosted on an AWS EC2 instance and is using automated scheduling to update insect phenology from daily geospatial data.
+Created as part of [The Trench Project](https://www.trenchproject.com/) at University of Washington, this interactive **R-Shiny** based insect phenology forecaster provides a detailed picture of the current developmental status of various insect species across the US and also attempts to predict development using daily high-resolution **geospatial datasets**. This educational visualization provides educators with tools to clearly and concisely teach critical ecological principles to aspiring functional ecologists. This project is currently hosted on an **AWS EC2** instance and is using automated scheduling to update insect phenology from daily geospatial data.
 
 <img src="images/insect-phenology-heatmap.png?raw=true"/>
 
@@ -13,7 +13,7 @@ Created as part of [The Trench Project](https://www.trenchproject.com/) at Unive
 
 ---
 [Ring of Fire: Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)
-A parallelized genetic program for evolving rules that describe a cellular automaton based wildfire simulation. Both the genetic program and the wildfire simulator were written in Clojure by [@Oliver-BE](https://github.com/Oliver-BE), [@MGlusker](https://github.com/MGlusker), and myself.
+A **parallelized genetic program** for evolving rules that describe a cellular automaton based wildfire simulation. Both the genetic program and the wildfire simulator were written in **Clojure** by [@Oliver-BE](https://github.com/Oliver-BE), [@MGlusker](https://github.com/MGlusker), and myself.
 
 ---
 [Modeling Metabolic Responses to Climate Change](https://github.com/trenchproject/Climate-Change-Metabolism)
@@ -23,7 +23,7 @@ This interactive R-Shiny webpage was created to visualize how ectotherm metaboli
 
 ---
 [Visualizing the ecological impacts of marine heatwaves](https://github.com/HuckleyLab/phyto-mhw)
-This interactive React dashboard was created as part of a larger effort by [@acannistra](https://github.com/acannistra) with the [Buckley Lab](http://faculty.washington.edu/lbuckley/) at UW to assess the impact of marine heatwaves on phytoplankton.   
+This interactive **React** dashboard was created as part of a larger effort by [@acannistra](https://github.com/acannistra) with the [Buckley Lab](http://faculty.washington.edu/lbuckley/) at UW to assess the impact of marine heatwaves on phytoplankton.   
 
 <img src="images/phyto-mhw.png?raw=true"/>
 
@@ -32,11 +32,11 @@ This interactive React dashboard was created as part of a larger effort by [@aca
 ### Assorted Projects 
 
 [Intellage: An Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)
-Written in Java by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this program aims to recreate an input photo from a user-specified collection of jpg images. The following examples each utilized a collection of 26,000 stock images:
+Written in **Java** by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this program aims to recreate an input photo from a user-specified collection of jpg images. The following examples each utilized a collection of 26,000 stock images:
 <img src="images/intellage-sample-new.png?raw=true"/>
 
 ---
 [Youtube Watch Later](https://github.com/icaruso21/Youtube-Watch-Later)
-This project leveraged Vagrant's support for the VirtualBox hypervisor to automate the deployment of two intercommunicating EC2 instances hosting webservers and updating/querying a MySQL database via REST APIs as part of a project for a Cloud Computing Architecture course with [@jhk199](https://github.com/jhk199) and [@Reid-Smith11](https://github.com/Reid-Smith11). 
+This project leveraged Vagrant's support for the **VirtualBox** hypervisor to automate the deployment of two intercommunicating **EC2** instances hosting webservers and updating/querying a **MySQL** database via **REST APIs** as part of a project for a Cloud Computing Architecture course with [@jhk199](https://github.com/jhk199) and [@Reid-Smith11](https://github.com/Reid-Smith11). 
 
 ---
