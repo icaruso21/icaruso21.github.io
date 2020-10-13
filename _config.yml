@@ -4,6 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Hi I'm a computer science and pre-medicine major at Amherst College. Recently, I've been developing data visualizations for functional ecology education with the <a href="https://www.trenchproject.com/"> TrEnCh Project</a> at UW. 
   <br><br>
+  <a href="mailto:isaac@icaruso.ml">Email Me</a> 
+  <br><br>
   <a href="https://linkedin.com/in/isaac-caruso-90682314a">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
