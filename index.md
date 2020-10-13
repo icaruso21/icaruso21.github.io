@@ -4,7 +4,8 @@
 
 ### Data Science & Ecology
 
-**[Predicting and Modeling Insect Phenology](https://github.com/icaruso21/Insect-Phenology-Forecaster)**
+**[Predicting and Modeling Insect Phenology](https://github.com/icaruso21/Insect-Phenology-Forecaster)** *[Visit Website](https://insectphenology.ml/Insect-Phenology-Forecaster/)*
+<br>
 Created as part of [The Trench Project](https://www.trenchproject.com/) at University of Washington, this interactive **R-Shiny** based insect phenology forecaster provides a detailed picture of the current developmental status of various insect species across the US and predicts future development utilizing daily high-resolution gridded climate data. This educational visualization provides educators with tools to clearly and concisely teach critical ecological principles to aspiring functional ecologists. This project is currently hosted on an **AWS EC2** instance and is using automated scheduling to update insect phenology after pulling **geospatial data** daily.
 
 <img src="images/insect-phenology-heatmap.png?raw=true"/>
