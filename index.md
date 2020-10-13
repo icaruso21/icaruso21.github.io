@@ -14,6 +14,7 @@ Created as part of [The Trench Project](https://www.trenchproject.com/) at Unive
 
 ---
 **[Ring of Fire: Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)**
+<br>
 A **parallelized genetic program** for evolving rules that describe a cellular automaton based wildfire simulation. Both the genetic program and the wildfire simulator were written in **Clojure** by [@Oliver-BE](https://github.com/Oliver-BE), [@MGlusker](https://github.com/MGlusker), and myself.
 
 ---
@@ -25,6 +26,7 @@ This interactive **R-Shiny** webpage was created to visualize how ectotherm meta
 
 ---
 **[Visualizing the ecological impacts of marine heatwaves](https://github.com/HuckleyLab/phyto-mhw)**
+<br>
 This interactive **React** dashboard was created as part of a larger effort by [@acannistra](https://github.com/acannistra) with the [Buckley Lab](http://faculty.washington.edu/lbuckley/) at UW to assess the impact of marine heatwaves on phytoplankton.   
 
 <img src="images/phyto-mhw.png?raw=true"/>
@@ -34,11 +36,13 @@ This interactive **React** dashboard was created as part of a larger effort by [
 ### Assorted Projects 
 
 **[Intellage: An Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)**
+<br>
 Written in **Java** by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this program aims to recreate an input photo from a user-specified collection of jpg images. The following examples each utilized a collection of 26,000 stock images:
 <img src="images/intellage-sample-new.png?raw=true"/>
 
 ---
 **[Youtube Watch Later](https://github.com/icaruso21/Youtube-Watch-Later)**
+<br>
 This project leveraged Vagrant's support for the **VirtualBox** hypervisor to automate the deployment of two intercommunicating **EC2** instances hosting webservers and updating/querying a **MySQL** database via **REST APIs** as part of a project for a Cloud Computing Architecture course with [@jhk199](https://github.com/jhk199) and [@Reid-Smith11](https://github.com/Reid-Smith11). 
 
 ---
