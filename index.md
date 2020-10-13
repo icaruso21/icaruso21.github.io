@@ -17,7 +17,7 @@ A **parallelized genetic program** for evolving rules that describe a cellular a
 
 ---
 **[Modeling Metabolic Responses to Climate Change](https://github.com/trenchproject/Climate-Change-Metabolism)**
-This interactive R-Shiny webpage was created to visualize how ectotherm metabolism has/will change in response to climate change across climate zones. Relying on a significant amount of historical weather data covering a wide range of latitudes, this educational visualization methodologically addresses both climate change since 1960 and the resulting metabolic impact on exposed and thermoconforming extotherms. This project was created as part of [The Trench Project](https://www.trenchproject.com/).   
+This interactive **R-Shiny** webpage was created to visualize how ectotherm metabolism has/will change in response to climate change across climate zones. Relying on a significant amount of historical weather data covering a wide range of latitudes, this educational visualization methodologically addresses both climate change since 1960 and the resulting metabolic impact on exposed and thermoconforming extotherms. This project was created as part of [The Trench Project](https://www.trenchproject.com/).   
 
 <img src="images/climate-metabolism.png?raw=true"/>
 
