@@ -18,11 +18,13 @@ A parallelized genetic program for evolving rules that describe a cellular autom
 ---
 [Modeling Metabolic Responses to Climate Change](https://github.com/trenchproject/Climate-Change-Metabolism)
 This interactive R-Shiny webpage was created to visualize how ectotherm metabolism has/will change in response to climate change across climate zones. Relying on a significant amount of historical weather data covering a wide range of latitudes, this educational visualization methodologically addresses both climate change since 1960 and the resulting metabolic impact on exposed and thermoconforming extotherms. This project was created as part of [The Trench Project](https://www.trenchproject.com/) for [The Buckley Laboratory at UW](http://faculty.washington.edu/lbuckley/).
+
 <img src="images/climate-metabolism.png?raw=true"/>
 
 ---
 [Visualizing the ecological impacts of marine heatwaves](https://github.com/HuckleyLab/phyto-mhw)
 This interactive React dashboard was created as part of a larger effort by [@acannistra](https://github.com/acannistra) with the Buckley Lab at UW to assess the impact of marine heatwaves on phytoplankton.
+<br>
 <img src="images/phyto-mhw.png?raw=true"/>
 
 ---
