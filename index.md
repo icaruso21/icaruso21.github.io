@@ -21,6 +21,11 @@ This interactive R-Shiny webpage was created to visualize how ectotherm metaboli
 <img src="images/climate-metabolism.png?raw=true"/>
 
 ---
+[Visualizing the ecological impacts of marine heatwaves](https://github.com/HuckleyLab/phyto-mhw)
+This interactive React dashboard was created as part of a larger effort by [@acannistra](https://github.com/acannistra) with the Buckley Lab at UW to assess the impact of marine heatwaves on phytoplankton.
+<img src="images/phyto-mhw.png?raw=true"/>
+
+---
 
 ### Assorted Projects 
 
