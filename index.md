@@ -41,4 +41,4 @@ This project leveraged Vagrant's support for the **VirtualBox** hypervisor to au
 
 ---
 
-Thanks for checking me out! I'll try to keep this updated as I explore new things.
+Thanks for stopping by! I'll try to keep this updated as I learn new things.
