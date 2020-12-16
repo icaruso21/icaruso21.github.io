@@ -35,7 +35,7 @@ This interactive **React** dashboard was created as part of a larger effort by [
 
 ### Assorted Projects 
 
-**[RStudio & RShiny EC2 Server](https://github.com/trenchproject/R-Docker-Server)**
+**[RStudio & RShiny Containerized EC2 Server](https://github.com/trenchproject/R-Docker-Server)**
 <br>
 Recently, I wrote some scripts and dockerfiles to deploy RShiny and RStudio **Docker** containers on **EC2** providing web access with an NGINX reverse proxy.
 
