@@ -35,6 +35,11 @@ This interactive **React** dashboard was created as part of a larger effort by [
 
 ### Assorted Projects 
 
+**[RStudio & RShiny EC2 Server](https://github.com/trenchproject/R-Docker-Server)**
+<br>
+Recently, I wrote some scripts and dockerfiles to deploy RShiny and RStudio **Docker** containers on **EC2** providing web access with an NGINX reverse proxy.
+
+---
 **[Intellage: An Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)**
 <br>
 Written in **Java** by [@Oliver-BE](https://github.com/Oliver-BE) and myself, this program aims to recreate an input photo from a user-specified collection of jpg images. The following examples each utilized a collection of 26,000 stock images:
